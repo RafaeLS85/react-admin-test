@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "edited title",
+      "author": "typicode",
+      "createdAt": "02-02-2022"
+    },
+    {
+      "id": 2,
+      "title": "json-server 2",
+      "author": "typicode",
+      "createdAt": "03-01-2021"
+    },
+    {
+      "id": 3,
+      "title": "json-server 3",
+      "author": "typicode",
+      "createdAt": "04-06-2022"
+    },
+    {
+      "id": 4,
+      "title": "json-server 4",
+      "author": "typicode",
+      "createdAt": "04-05-2022"
+    },
+    {
+      "title": "new post",
+      "author": "yolo",
+      "createdAt": "2023-06-23",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "json-server sucks",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "hey whats up?",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "ig de la minita",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "banco",
+      "postId": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
