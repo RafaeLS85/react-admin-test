@@ -34,7 +34,7 @@
   "comments": [
     {
       "id": 1,
-      "body": "json-server sucks",
+      "body": "json-server is so cool",
       "postId": 1
     },
     {
@@ -44,13 +44,23 @@
     },
     {
       "id": 3,
-      "body": "ig de la minita",
+      "body": "hello there",
       "postId": 1
     },
     {
       "id": 4,
-      "body": "banco",
+      "body": "hehe",
       "postId": 4
+    },
+    {
+      "body": "nice post",
+      "id": 5,
+      "postId": 1
+    },
+    {
+      "postId": 1,
+      "body": "testing",
+      "id": 6
     }
   ],
   "profile": {
